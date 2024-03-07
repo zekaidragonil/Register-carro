@@ -1,0 +1,51 @@
+/backend/.phpunit.cache
+/backend/node_modules
+/backend/public/build
+/backend/public/hot
+/backend/public/storage
+/backend/storage/*.key
+/backend/vendor
+backend/.env
+.env.backup
+backend/.env.production
+backend/.phpunit.result.cache
+backend/Homestead.json
+backend/Homestead.yaml
+backend/auth.json
+backend/npm-debug.log
+backend/yarn-error.log
+/backend/.fleet
+/backend/.idea
+/backend/.vscode
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/fronet/node_modules
+/fronet/.pnp
+fronet/.pnp.js
+
+# testing
+/fronet/coverage
+
+# production
+/fronet/dist
+
+# misc
+fronet/.DS_Store
+fronet/.env.local
+fronet/.env.development.local
+fronet/.env.test.local
+fronet/.env.production.local
+fronet//.vscode/*
+fronet/!/.vscode/extensions.json
+fronet/.idea
+
+fronet/npm-debug.log*
+fronet/yarn-debug.log*
+fronet/yarn-error.log*
+
+# Optional eslint cache
+fronet/.eslintcache
+

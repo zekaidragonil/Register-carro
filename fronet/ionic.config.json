@@ -1,0 +1,7 @@
+{
+  "name": "fronet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
